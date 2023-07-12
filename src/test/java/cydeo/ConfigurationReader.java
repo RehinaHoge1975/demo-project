@@ -9,6 +9,7 @@ ConfigurationReader {
 
 	private static Properties configFile;
 
+
 	static {
 
 		try {
